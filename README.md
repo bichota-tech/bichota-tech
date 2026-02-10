@@ -15,11 +15,11 @@ Estoy en aprendizaje continuo y organizo mis repos para mostrar tanto proyectos 
 ---
 
 ## ✅ Proyectos principales
-- **acma** — portfolio personal  
-- **asistente_digital** — gestor de tareas con roles y localStorage  
-- **Galeria_Virtual** — galería visual (UI y layout)  
-- **excursionescartas** — landing informativa  
-- **CarouselClaude** — componente 3D reutilizable  
+- **[acma](https://github.com/bichota-tech/acma)** — portfolio personal
+- **[asistente_digital](https://github.com/bichota-tech/asistente_digital)** — gestor de tareas con roles y localStorage  
+- **[Galeria_Virtual](https://github.com/bichota-tech/Galeria_Virtual)** — galería visual (UI y layout)  
+- **[excursionescartas](https://github.com/bichota-tech/excursionescartas)** — landing informativa  
+- **[CarouselClaude](https://github.com/bichota-tech/carouselclaude)** — componente 3D reutilizable  
 
 ---
 
