@@ -1,16 +1,53 @@
-## Hi there 👋
+# ACMA — Frontend Developer (aprendizaje continuo) 👋
 
-<!--
-**bichota-tech/bichota-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Adalid, Ingeniera Informática enfocada en desarrollo Frontend **HTML, CSS, JavaScript y Vue**.  
+Estoy en aprendizaje continuo y organizo mis repos para mostrar tanto proyectos reales como prácticas enfocadas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Enfoque actual
+- Maquetación semántica y responsive
+- Componentes reutilizables
+- UI con interacciones claras
+- JavaScript práctico
+- Vue en crecimiento (y uso progresivo de librerías cuando aportan valor)
+
+---
+
+## ✅ Proyectos principales
+- **acma** — portfolio personal  
+- **asistente_digital** — gestor de tareas con roles y localStorage  
+- **Galeria_Virtual** — galería visual (UI y layout)  
+- **excursionescartas** — landing informativa  
+- **CarouselClaude** — componente 3D reutilizable  
+
+---
+
+## ➕ Proyectos secundarios
+- **cookies** — sitio informativo estático  
+- **mini_proyectos_practica** — colección de mini componentes reutilizables  
+
+---
+
+## ⚙️ Prácticas / ejercicios
+- **top_cookies**  
+- **layout_cloned**  
+- **firststeps_javascript**  
+- **practica_css-grid**  
+
+---
+
+## 🧰 Stack actual
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+- **Vue (en progreso)**
+- **Uso de librerías** aportan simplicidad o mejoran la experiencia de usuario
+
+---
+
+## 📌 Nota
+Mis repos están organizados para mostrar el proceso real:  
+proyectos principales, secundarios y ejercicios de práctica.
+
+Gracias por pasarte por aquí ✨
