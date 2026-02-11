@@ -16,7 +16,7 @@
 - **[acma](https://github.com/bichota-tech/acma)** — portfolio personal
 - **[asistente_digital](https://github.com/bichota-tech/asistente_digital)** — gestor de tareas con roles y localStorage  
 - **[Galeria_Virtual](https://github.com/bichota-tech/Galeria_Virtual)** — galería visual (UI y layout)  
-- **[excursionescartas](https://github.com/bichota-tech/excursionescartas)** — landing informativa  
+- **[butcheryorders](https://github.com/bichota-tech/butcheryorders)** — gestión de órdenes por voz   
 - **[CarouselClaude](https://github.com/bichota-tech/carouselclaude)** — componente 3D reutilizable  
 
 ---
