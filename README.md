@@ -1,8 +1,6 @@
 # ACMA — Frontend Developer (aprendizaje continuo) 👋
 
-¡Hola! Soy Adalid, Ingeniera Informática enfocada en desarrollo Frontend **HTML, CSS, JavaScript y Vue**.  
-Estoy en aprendizaje continuo y organizo mis repos para mostrar tanto proyectos reales como prácticas enfocadas.
-
+¡Hola! Soy Adalid,Soy desarrolladora frontend especializada en JavaScript vanilla, Vue y arquitecturas accesibles. Creo SPAs optimizadas, aplicaciones interactivas con features modernas (como integración de voz), y siempre pensando en SEO y performance. Ves en mi perfil desde portfolios profesionales hasta aplicaciones funcionales.
 ---
 
 ## 🧭 Enfoque actual
