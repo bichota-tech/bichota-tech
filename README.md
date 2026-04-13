@@ -5,13 +5,19 @@
 ---
 
 ## 🧭 Enfoque actual
-- Arquitecturas modernas con **Vue 3** (Composition API, Vue Router, Pinia)
+- Arquitecturas modernas con **Vue 3** (Composition API, Vue Router, Pinia) y desarrollo full-stack
 - Desarrollo con **Vite** para workflows rápidos y eficientes
 - Maquetación semántica y responsive con **HTML5** y **CSS3**
 - Componentes reutilizables y testing con **Vitest**
 - JavaScript práctico aplicado a soluciones reales
 - Calidad de código con **ESLint**, **Oxlint** y **Prettier**
 - Migración de proyectos vanilla a ecosistemas modernos
+- Backend con **Express.js**, **Node.js**, **Prisma** y **TypeScript**
+- Autenticación segura con **JWT** y encriptación
+- APIs REST robustas y escalables
+- Testing backend con **Jest** y **Supertest**
+- Validación de datos con **Zod**
+- Despliegue serverless con **Firebase Cloud Functions**
 
 ---
 
@@ -22,9 +28,11 @@
 - **[acma](https://github.com/bichota-tech/acma)** — Versión original en JavaScript vanilla (migrado a Vue)
 
 ### 🚀 Aplicaciones interactivas
-- **[asistente_digital](https://github.com/bichota-tech/asistente_digital)** — Gestor de tareas con roles y localStorage  
-- **[butcheryorders](https://github.com/bichota-tech/butcheryorders)** — Gestión de órdenes con integración de Web Speech API
 - **[Galeria_Virtual](https://github.com/bichota-tech/Galeria_Virtual)** — Galería visual con UI optimizada
+- **[Galeria_Virtual_SPA](https://github.com/bichota-tech/hevca-vue-app)** — Arquitectura evolucionada hacia una Single Page Application (SPA)
+- **[butcheryorders](https://github.com/bichota-tech/butcheryorders)** — Gestión de órdenes por voz con integración de Web Speech API
+- **[butcheryordermanual](https://github.com/bichota-tech/butcheryordermanual)** — Aplicación web para la gestión integral de una carnicería de forma manual
+- **[asistente_digital](https://github.com/bichota-tech/asistente_digital)** — Gestor de tareas con roles y localStorage
 
 ### 🧩 Componentes
 - **[CarouselClaude](https://github.com/bichota-tech/carouselclaude)** — Componente carrusel 3D reutilizable
@@ -57,9 +65,21 @@
 - **Vite** — Build tool moderno y dev server
 - **npm** — Gestión de dependencias
 
+### Backend
+- **Express.js** — Creación de APIs REST y servidores backend
+- **Prisma** — Interacción con bases de datos mediante un schema tipado y consultas intuitivas
+- **Node.js** — Ejecutar código JavaScript en el servidor
+- **JWT** — Autenticación basado en tokens JSON
+- **Firebase Cloud Functions** —
+- **Google Cloud Speech** — Serverless para ejecutar código backend sin gestionar servidores
+- **SQLite** — Base de datos relacional ligera para desarrollo local
+- **TypeScript** —
+- **Zod** — Librería de validación de esquemas
+
 ### Testing & Quality
 - **Vitest** — Testing unitario
 - **ESLint + Oxlint** — Linting de código
+- **Jest & Supertest** — Jest para pruebas unitarias e integración, y Supertest para testing de APIs HTTP
 - **Prettier** — Formateador de código
 - **@vue/test-utils** — Testing de componentes Vue
 
@@ -70,6 +90,7 @@
 
 ### Deployment & Tools
 - **Vercel** — Deploy y hosting
+- **Firebase GCP** — Deploy y hosting
 - **Git & GitHub** — Control de versiones
 
 ---
