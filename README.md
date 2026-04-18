@@ -1,141 +1,22 @@
-# ACMA — Frontend Developer 👋
+# 💫 About Me:
+Hi, I'm Adalid<br>
+🔭 I’m currently working on<br>Building scalable frontend applications with Vue 3 and SPA architecture, focused on performance, accessibility and real business impact.<br>Deploying solutions in cloud environments (Firebase, Vercel, GCP-ready).<br><br>👯 I’m looking to collaborate on<br>Frontend projects with strong focus on UX, performance optimization and clean architecture, especially SaaS products or digital business tools.<br><br>🤝 I’m looking for help with<br>Advancing to professional-level Google Cloud (GCP) and designing production-ready cloud architectures for frontend applications.<br><br>🌱 I’m currently learning<br>Deepening expertise in Vue ecosystem, state management, cloud integrations and AI-assisted development workflows.<br><br>💬 Ask me about<br><br>Vue 3 (Composition API, Pinia)<br>SPA architecture (no reload navigation)<br>Web accessibility (ARIA, keyboard navigation, NVDA)<br>Technical SEO for SPAs<br>Frontend performance & Core Web Vitals<br><br>⚡ Fun fact<br>I’ve built systems that reduce operational workload by up to 60%… now I apply that same mindset to frontend performance.
 
-¡Hola! Soy Adalid, desarrolladora frontend especializada en JavaScript vanilla, Vue.js y arquitecturas accesibles. Creo SPAs optimizadas, aplicaciones interactivas con features modernas (como integración de voz), siempre pensando en SEO, accesibilidad y performance. En mi perfil encontrarás desde portfolios profesionales hasta aplicaciones funcionales y migraciones arquitectónicas.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/acma-in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adalvarez2021@gmail.com) 
 
-## 🧭 Enfoque actual
-- Arquitecturas modernas con **Vue 3** (Composition API, Vue Router, Pinia) y desarrollo full-stack
-- Desarrollo con **Vite** para workflows rápidos y eficientes
-- Maquetación semántica y responsive con **HTML5** y **CSS3**
-- Componentes reutilizables y testing con **Vitest**
-- JavaScript práctico aplicado a soluciones reales
-- Calidad de código con **ESLint**, **Oxlint** y **Prettier**
-- Migración de proyectos vanilla a ecosistemas modernos
-- Backend con **Express.js**, **Node.js**, **Prisma** y **TypeScript**
-- Autenticación segura con **JWT** y encriptación
-- APIs REST robustas y escalables
-- Testing backend con **Jest** y **Supertest**
-- Validación de datos con **Zod**
-- Despliegue serverless con **Firebase Cloud Functions**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bichota-tech&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bichota-tech&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bichota-tech&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bichota-tech&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=bichota-tech&icon=7&color=0)](https://visitcount.itsvg.in)
 
-## ✅ Proyectos principales
-
-### 🎯 Portfolio (Evolución arquitectónica)
-- **[acma-portfolio-vue](https://github.com/bichota-tech/acma-portfolio-vue)** — Portfolio profesional con Vue 3, Vite, Vue Router y Pinia
-- **[acma](https://github.com/bichota-tech/acma)** — Versión original en JavaScript vanilla (migrado a Vue)
-
-### 🚀 Aplicaciones interactivas
-- **[Galeria_Virtual](https://github.com/bichota-tech/Galeria_Virtual)** — Galería visual con UI optimizada
-- **[Galeria_Virtual_SPA](https://github.com/bichota-tech/hevca-vue-app)** — Arquitectura evolucionada hacia una Single Page Application (SPA)
-- **[butcheryorders](https://github.com/bichota-tech/butcheryorders)** — Gestión de órdenes por voz con integración de Web Speech API
-- **[butcheryordermanual](https://github.com/bichota-tech/butcheryordermanual)** — Aplicación web para la gestión integral de una carnicería de forma manual
-- **[asistente_digital](https://github.com/bichota-tech/asistente_digital)** — Gestor de tareas con roles y localStorage
-
-### 🧩 Componentes
-- **[CarouselClaude](https://github.com/bichota-tech/carouselclaude)** — Componente carrusel 3D reutilizable
-
----
-
-## ➕ Proyectos secundarios
-- **cookies** — Sitio informativo estático  
-- **mini_proyectos_practica** — Colección de mini componentes reutilizables  
-
----
-
-## ⚙️ Prácticas / ejercicios
-- **top_cookies**  
-- **layout_cloned**  
-- **firststeps_javascript**  
-- **practica_css-grid**  
-
----
-
-## 🧰 Stack tecnológico
-
-### Frontend Frameworks & Libraries
-- **Vue 3** — Composition API, Reactivity System
-- **Vue Router** — Enrutamiento SPA
-- **Pinia** — State Management
-- **JavaScript (ES6+)** — Async/Await, Modules, Classes
-
-### Build Tools & Development
-- **Vite** — Build tool moderno y dev server
-- **npm** — Gestión de dependencias
-
-### Backend
-- **Express.js** — Creación de APIs REST y servidores backend
-- **Prisma** — Interacción con bases de datos mediante un schema tipado y consultas intuitivas
-- **Node.js** — Ejecutar código JavaScript en el servidor
-- **JWT** — Autenticación basado en tokens JSON
-- **Firebase Cloud Functions** —
-- **Google Cloud Speech** — Serverless para ejecutar código backend sin gestionar servidores
-- **SQLite** — Base de datos relacional ligera para desarrollo local
-- **TypeScript** —
-- **Zod** — Librería de validación de esquemas
-
-### Testing & Quality
-- **Vitest** — Testing unitario
-- **ESLint + Oxlint** — Linting de código
-- **Jest & Supertest** — Jest para pruebas unitarias e integración, y Supertest para testing de APIs HTTP
-- **Prettier** — Formateador de código
-- **@vue/test-utils** — Testing de componentes Vue
-
-### Core Technologies
-- **HTML5** — Semántica y accesibilidad
-- **CSS3** — Responsive, Grid, Flexbox, Variables
-- **Web APIs** — Speech Recognition, localStorage, History API
-
-### Deployment & Tools
-- **Vercel** — Deploy y hosting
-- **Firebase GCP** — Deploy y hosting
-- **Git & GitHub** — Control de versiones
-
----
-
-## 🎓 Competencias técnicas
-
-### Arquitectura Frontend
-- Implementación de SPAs (Single Page Applications)
-- Migración de proyectos vanilla a frameworks modernos
-- Gestión de estado centralizado con Pinia
-- Enrutamiento dinámico con Vue Router
-
-### Desarrollo Vue 3
-- Composition API con `<script setup>`
-- Componentes reactivos y lifecycle hooks
-- Props, emits y comunicación entre componentes
-- Directivas personalizadas y computed properties
-
-### Best Practices
-- Accesibilidad web (WCAG 2.1)
-- SEO técnico en SPAs
-- Optimización de rendimiento (Core Web Vitals)
-- Code splitting y lazy loading
-- Linting y formateo automatizado
-
-### Integración de APIs
-- Web Speech API (reconocimiento de voz)
-- LocalStorage y persistencia de datos
-- Fetch API y manejo de requests HTTP
-
----
-
-## 📌 Nota
-
-Mis repositorios están organizados para mostrar el proceso real de desarrollo:  
-proyectos principales, secundarios, ejercicios de práctica y evolución arquitectónica.
-
-Actualmente trabajo en modernizar proyectos legacy y aplicar patrones escalables con Vue 3.
-
----
-
-## 📫 Contacto
-
-**GitHub:** [@bichota-tech](https://github.com/bichota-tech)  
-**LinkedIn:** [Adalid Martínez Álvarez](https://www.linkedin.com/in/acma-48755b34b/)  
-**Portfolio Demo:** https://portfolio-blue-iota-62.vercel.app/
-
-Gracias por pasarte por aquí ✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
